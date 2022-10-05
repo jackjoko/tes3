@@ -2,7 +2,7 @@
   "name-web":"About Live",
   "author":"me",
   "remove-comment-html":true,
-  "target":"https://www.countryliving.com",
+  "target":"https://www.popmama.com",
   "map-permalink":[
     "cars",
     "content",
@@ -26,7 +26,7 @@
   ],
   "costom-element-remove":[
     {
-      "target":"www.countryliving.com",
+      "target":"www.popmama.com",
       "element-remove-selector":[
         ".js-dismissable-hero",
         ".lazy-loading"
